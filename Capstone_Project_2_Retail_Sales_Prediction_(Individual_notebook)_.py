@@ -36,7 +36,7 @@ Conversion Date: 2025-12-12T16:32:58.819Z
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 import seaborn as sns
 import warnings
